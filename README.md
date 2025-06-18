@@ -1,4 +1,4 @@
-# kickstart.nvim
+# Parthenon.nvim
 
 ## Introduction
 
