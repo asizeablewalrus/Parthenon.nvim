@@ -3,7 +3,7 @@
 ## Currently Installed
 
 * blink.cmp : Completion 
-* fidget : Ui/Notifications
+* fidget : Notifications
 * gitsigns : Buffer git integration
 * guess-indent : Auto indentation command
 * lazy, lazydev : Plugin manager
